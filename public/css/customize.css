@@ -1,0 +1,8 @@
+.menu-toggle i, .sidebar-nav li>a{
+	color:#fff;
+}
+
+#left-sidebar-wrapper .sidebar-nav li
+{
+	text-indent:12px;
+}
